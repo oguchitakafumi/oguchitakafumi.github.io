@@ -1,0 +1,73 @@
+:{margin:0px;
+padding:0px;}
+
+
+
+body{
+    background-color:white;
+
+}
+
+
+
+header{
+    background-image:url(02l.jpg);
+    background-position:top top;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-bottom:150px;
+    margin-top:-5px;
+}
+
+
+
+
+
+
+
+ h1 {
+    font-size:50px;
+    text-align:center;
+    color:black;
+    letter-spacing:0.15em;
+
+}
+
+
+
+
+p{font-size:20px;
+}
+
+
+.container h1 {
+    font-size:30px;
+    text-decoration:none;
+    color:gray;
+
+}
+
+create h4 {
+    text-align:center;
+    font-size:20px;
+}
+
+footer {
+    text-align:center;
+   background-color:black;
+}
+
+footer p{
+    padding:30px 30px;
+    margin:20px -40px -90px -40px;
+    color:white;
+}
+
+<<<<<<< HEAD
+
+=======
+.section p{
+    text-align:center;
+}
+}
+>>>>>>> tmp
